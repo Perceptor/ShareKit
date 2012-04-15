@@ -35,11 +35,11 @@
  These values are used by any service that shows 'shared from XYZ'
  */
 - (NSString*)appName {
-	return @"My App Name";
+	return @"2012 World Press Photo Contest";
 }
 
 - (NSString*)appURL {
-	return @"http://example.com";
+	return @"http://itunes.apple.com/us/app/2012-world-press-photo-contest/id518802894?ls=1&mt=8";
 }
 
 /*
@@ -76,7 +76,7 @@
 // 
 //    Your CFBundleURLSchemes entry: fb555lite
 - (NSString*)facebookAppId {
-	return @"";
+	return @"376386505707810";
 }
 
 - (NSString*)facebookLocalAppId {
